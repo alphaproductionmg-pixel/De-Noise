@@ -1,0 +1,8 @@
+build/
+dist/
+cmake-build-*/
+.vs/
+.vscode/
+.idea/
+*.user
+*.zip
